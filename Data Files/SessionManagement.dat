@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>110884a8-3028-420d-b4bb-2b23102397d5</dataFileGUID>
-   <dataSourceUrl>D:\Automation\KogniveraGithub\Liverpool-Ecomm\datadriven.xlsx</dataSourceUrl>
+   <dataSourceUrl>https://github.com/kognivera-org/LP_Migration/blob/master/Test Cases/Testdata file/datadriven.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
